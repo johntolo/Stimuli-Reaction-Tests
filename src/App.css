@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  background-color: #a5e1f0;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.header {
+  padding: 20px;
+  font-family: 'Cambria';
+  font-size: 25px;
 }
 
 .App-logo {
